@@ -1,8 +1,17 @@
-<a href="https://imgur.com/ZY9n6hP"><img src="https://i.imgur.com/ZY9n6hP.png" title="source: imgur.com" /></a>
+### <samp>&gt; Hi there, I'm <a href="https://angel-2180.github.io" target="_blank">Angel Gimer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+
 
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-gimer-3b8098231) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-gimer-3b8098231/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://angel-2180.github.io)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AngelGimer)
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Angel-2180.Angel-2180&style=flat-square&color=0088cc)
+
+I am a Game Programmer from France. I'm currently studying Game Programming at ISART DIGITAL. I'm passionate about programming and I'm always looking for new challenges. I'm currently looking for a job as a Game Programmer.
+
+<img align="right" alt="GIF" src="https://github.com/Angel-2180/Angel-2180/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
