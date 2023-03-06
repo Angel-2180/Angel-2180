@@ -18,12 +18,9 @@ I am a Game Programmer from France. I'm currently studying Game Programming at I
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 24 mins   █████████████████░░░░░░░░   67.61 %
-CSS          41 mins         █████░░░░░░░░░░░░░░░░░░░░   19.55 %
-JavaScript   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-JSON         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Markdown   47 mins         ████████████████████████▒   97.70 %
+JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
