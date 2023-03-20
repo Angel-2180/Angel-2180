@@ -44,4 +44,4 @@ CMake         0 secs          ░░░░░░░░░░░░░░░░�
 ---
 
 ## 📫 How to reach me:
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-round&logo=Twitter&logoColor=white)](https://twitter.com/AngelGimer) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-round&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-gimer-4b4b1b1b4/)    [![Angel Gimer](https://img.shields.io/badge/-Angel%20Gimer-3b5998?style=flat-round&logo=google-chrome&logoColor=white)](https://angel-gimer-ca.web.app/) 
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-round&logo=Twitter&logoColor=white)](https://twitter.com/AngelGimer) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-round&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-gimer-4b4b1b1b4/)    
