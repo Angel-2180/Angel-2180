@@ -18,7 +18,7 @@ I am a Game Programmer from France. I'm currently studying Game Programming at I
 <!--START_SECTION:waka-->
 
 ```txt
-Batchfile   7 mins          █████████████████████████   100.00 %
+Batchfile   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
