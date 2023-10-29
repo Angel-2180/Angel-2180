@@ -18,11 +18,11 @@ I am a Game Programmer from France. I'm currently studying Game Programming at I
 <!--START_SECTION:waka-->
 
 ```txt
-C#          10 hrs 39 mins  ████████████████████████▒   97.52 %
-JSON        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-GDScript3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+C#          8 hrs 23 mins   ████████████████████████▒   96.87 %
+JSON        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+GDScript3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 Lua         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-GDScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+GDScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
