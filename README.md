@@ -18,8 +18,7 @@ I am a Game Programmer from France. I'm currently studying Game Programming at I
 <!--START_SECTION:waka-->
 
 ```txt
-C#         2 hrs 49 mins   ███████████████████████░░   92.53 %
-Markdown   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+C#   1 hr 56 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
