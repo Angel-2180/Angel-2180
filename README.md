@@ -3,7 +3,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Angel-2180.Angel-2180&style=flat-round&color=0088cc)
 
-I am a Game Programmer from France. I'm currently studying Game Programming at ISART DIGITAL. I'm passionate about programming and I'm always looking for new challenges. I'm currently looking for a job as a Game Programmer.
+I am a Game Programmer from France. I'm a graduate student in Game Programming at ISART DIGITAL. I'm passionate about programming and I'm always looking for new challenges. I'm currently looking for a job as a Game Programmer.
 
 <img align="right" alt="GIF" src="assets/coding.gif" width="408" height="318" />
 
