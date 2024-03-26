@@ -18,7 +18,7 @@ I am a Game Programmer from France. I'm a graduate student in Game Programming a
 <!--START_SECTION:waka-->
 
 ```txt
-C#   2 hrs 15 mins   █████████████████████████   100.00 %
+C#   4 hrs 21 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
