@@ -18,11 +18,11 @@ I am a Game Programmer from France. I'm a graduate student in Game Programming a
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         7 hrs 36 mins   ███████████████████▓░░░░░   78.18 %
-CSS          45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-C++          30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-JavaScript   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Lua          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+HTML         6 hrs 21 mins   ███████████████████▓░░░░░   79.27 %
+C++          30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+CSS          30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+JavaScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Lua          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
