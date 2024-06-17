@@ -18,9 +18,7 @@ I am a Game Programmer from France. I'm a graduate student in Game Programming a
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          22 mins         ████████████▓░░░░░░░░░░░░   50.59 %
-PowerShell   19 mins         ██████████▓░░░░░░░░░░░░░░   43.12 %
-JSON         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
