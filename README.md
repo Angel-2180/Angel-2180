@@ -18,11 +18,11 @@ I am a Game Programmer from France. I'm a graduate student in Game Programming a
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 10 mins   ████████████████████████░   96.15 %
-TypeScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Lua          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       6 hrs 23 mins   ██████████████░░░░░░░░░░░   56.07 %
+Rust         4 hrs 23 mins   █████████▓░░░░░░░░░░░░░░░   38.47 %
+Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+TypeScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
