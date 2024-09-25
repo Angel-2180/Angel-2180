@@ -18,8 +18,9 @@ I am a Game Programmer from France. I'm a graduate student in Game Programming a
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   17 mins         ████████████████████████▒   96.82 %
-TOML   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Rust   17 mins         █████████████████████▓░░░   86.04 %
+C++    2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+TOML   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
