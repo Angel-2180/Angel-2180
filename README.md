@@ -18,9 +18,10 @@ I am a Game Programmer from France. I'm a graduate student in Game Programming a
 <!--START_SECTION:waka-->
 
 ```txt
-CSS           23 mins         ██████████████▒░░░░░░░░░░   56.79 %
-C++           16 mins         ██████████░░░░░░░░░░░░░░░   40.39 %
-Objective-C   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+C++           2 hrs 6 mins    █████████████████████░░░░   83.49 %
+CSS           23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
+Objective-C   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+C             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
