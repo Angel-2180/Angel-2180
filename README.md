@@ -11,7 +11,7 @@ I am a Game Programmer from France. I'm a graduate student in Game Programming a
 
 - :computer:&nbsp;&nbsp; I’m currently working on something cool.
 - <img src="https://github.com/Angel-2180/Angel-2180/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
-- :mailbox:&nbsp;&nbsp; How to reach me: angel.gimer.ca@gmail.com
+- :mailbox:&nbsp;&nbsp; How to reach me: angel.gimer@proton.me
 - :page_with_curl:&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1Ra1nzYJQc7s7smOvsQDZ_Spi3wYPm0yw/view?usp=sharing)
 
 📊 **This Week I Spent My Time On:**
